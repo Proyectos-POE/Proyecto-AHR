@@ -1,5 +1,4 @@
-
-# Miniproyecto No. 1
+# Proyecto-AHR
 **Tema: GUI y ActionListener**
 
 El departamento de educación y aprendizaje de Univalle, requiere construir un software que permita
